@@ -20,7 +20,7 @@ require (
 	// v0.5.0-alpha.5.0.20200329194405-dd816f0735f8 is actually later than v3.3.20,
 	// but etcd's versioning is broken until they release this fix:
 	// https://github.com/etcd-io/etcd/pull/11823
-	go.etcd.io/etcd v0.5.0-alpha.5.0.20200329194405-dd816f0735f8
+	go.etcd.io/etcd v0.5.0-alpha.5.0.20200425165423-262c93980547
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	gopkg.in/redis.v5 v5.2.9
 )
